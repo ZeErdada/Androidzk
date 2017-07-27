@@ -1,0 +1,16 @@
+Json“¿¿µ 
+compile 'com.google.code.gson:gson:2.8.1'
+
+ImageLoder“¿¿µ
+ compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
+
+Glide“¿¿µ
+     compile 'com.android.support:support-v4:25.2.0'
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+
+
+banner“¿¿µ
+ compile 'com.youth.banner:banner:1.4.9'
+
+ablayout“¿¿µ
+compile 'com.android.support:design:25.0.1'
