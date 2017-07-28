@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#488"
+    android:orientation="vertical" >
+    <com.youth.banner.Banner
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:id="@+id/banner"></com.youth.banner.Banner>
+    <com.bw.shinelon.yuekaozj.xListView.XListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/Xlistv"></com.bw.shinelon.yuekaozj.xListView.XListView>
+
+</LinearLayout>
