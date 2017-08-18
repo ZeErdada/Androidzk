@@ -8,7 +8,7 @@ import com.youth.banner.loader.ImageLoader;
 
 /**
  * 创建时间： 2017/7/25
- * 创建人：Android 1506D 王野
+ * 创建人： 王野
  * 类作用：
  */
 
